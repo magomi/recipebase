@@ -1,0 +1,28 @@
+<cookml xmlns="http://codefromhell.org/cookml">
+  <recipe>
+    <head title="Penne in Gemüse-Feta-Soße"/>
+    <part>
+      <ingredient qty="1.0" unit="Stück" item="Zucchini (klein)"/>
+      <ingredient qty="500.0" unit="Gramm" item="Penne"/>
+      <ingredient qty="150.0" unit="Gramm" item="Feta"/>
+      <ingredient qty="3.0" unit="Stück" item="Frühlingszwiebeln"/>
+      <ingredient qty="3.0" unit="Stück" item="Tomaten (klein)"/>
+      <ingredient qty="3.0" unit="Stück" item="Knoblauchzehen"/>
+      <ingredient qty="1.0" unit="Stück" item="Sellerieknolle"/>
+      <ingredient qty="2.0" unit="Stück" item="Möhren"/>
+      <ingredient qty="1.0" unit="Stück" item="Paprika (klein)"/>
+      <ingredient qty="150.0" unit="Gramm" item="Parmesan"/>
+      <ingredient qty="1.0" unit="Stück" item="Kräutermischung (Basiikum, Oregano,...)"/>
+    </part>
+    <preparation>
+      <step>Reichlich Wasser (ca. 2-3 l) zum Kochen bringen und Penne darin bissfest kochen.</step>
+      <step>Währenddessen den Knoblauch fein würfeln und in Öl in einer großen Pfanne oder Kasserole andünsten.</step>
+      <step>Das Gemüse (Möhren, Sellerie, Frühlingszwiebeln, Zucchini, Paprika, Tomaten) fein würfeln und mit dem Knoblauch zusammen ca. 10 dünsten.</step>
+      <step>Den Feta mit einer Gabel zerdrücken und zum gedünsteten Gemüse geben. Ca. 50 ml Kochwasser von den Penne dazugeben und solange rühren, bis der Feta sich aufgelöst hat.</step>
+      <step>Mit Salz, Pfeffer und den frischen Kräutern würzen.</step>
+      <step>Die fertigen Penne abgiessen und direkt in der Pfanne mit der Soße vermischen.</step>
+      <step>Auf großen Tellern portionsweise anrichten und mit dem Parmesan und ein wenig frischen Kräutern bestreuen.</step>
+      <step>Guten Appetit!</step>
+    </preparation>
+  </recipe>
+</cookml>
