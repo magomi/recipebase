@@ -3,7 +3,7 @@
 	"ingredients": [
 		{"quantity": 100, "unit": "ml", "description": "cold espresso" },
 		{"quantity": 200, "unit": "ml", "description": "milk" },
-		{"quantity": 200, "unit": "g", "description": "ice cubes or crushed ice" }
+		{"quantity": 200, "unit": "g", "description": "ice cubes or crushed ice" },
 		{"quantity": 1, "unit": "tbs", "description": "brown sugar" }],
 	"preparation": [
 		{"description": "put all ingredients into a blender"},
