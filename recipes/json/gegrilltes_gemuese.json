@@ -1,6 +1,6 @@
 {
 	title: 'Gegrilltes Gemüse',
-	ingredients: [{
+	ingredients: [
 		ingredient: {
 			quantity: 1,
 			unit: kg,
@@ -12,12 +12,14 @@
 		ingredient: {
 			quantity: 1,
 			unit: Prise,
-			description: 'Gewürze (Salz, Pfeffer, Rosmarin, Oregano,...)' }],
-	preparation: [{
-		step: 'Paprika, Möhren, Sellerie in Streifen schneiden.',
-		step: 'Zwiebeln 6teln.',
-		step: 'Ofenblech einölen.',
-		step: 'Gemüse auf Blech ausbreiten und würzen',
-		step: 'Ofen (Grill) vorheizen.',
-		step: 'Gemüse ca. 20 min grillen, nach jeweils 7 min durchrühren.'}]
+			description: 'Gewürze (Salz, Pfeffer, Rosmarin, Oregano,...)' }
+		 ],
+	preparation: [
+		step: {description: 'Paprika, Möhren, Sellerie in Streifen schneiden.'},
+		step: {description: 'Zwiebeln 6teln.'},
+		step: {description: 'Ofenblech einölen.'},
+		step: {description: 'Gemüse auf Blech ausbreiten und würzen'},
+		step: {description: 'Ofen (Grill) vorheizen.'},
+		step: {description: 'Gemüse ca. 20 min grillen, nach jeweils 7 min durchrühren.'}
+		]
 }
