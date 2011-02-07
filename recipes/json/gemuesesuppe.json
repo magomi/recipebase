@@ -1,11 +1,12 @@
 {
-	"title":"Gemüsesuppe",
+	"title":"Gemuesesuppe",
 	"ingredients":[
-		{"quantity":1.0,"unit":"kg","description":"Gemüse"},		
+		{"quantity":1.0,"unit":"kg","description":"Gemuese"},		
 		{"quantity":0.5,"unit":"l","description":"Wasser"},
-		{"quantity":3.0,"unit":"Esslöffel","description":"Gewürze"}],
+		{"quantity":3.0,"unit":"Essloeffel","description":"Gewuerze"}],
 	"preparation":[
-		{"description":"Gemüse kleinschneiden"},
-		{"description":"Gemüse im Wasser 20 kochen"},
-		{"description":"Pürieren"},{"description":"nach Geschmack würzen"}]
+		{"description":"Gemuese kleinschneiden"},
+		{"description":"Gemuese im Wasser 20 kochen"},
+		{"description":"Puerieren"},
+		{"description":"nach Geschmack wuerzen"}]
 }
